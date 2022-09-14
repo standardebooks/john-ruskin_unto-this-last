@@ -28,28 +28,39 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Unto This Last</dc:title>
 		<meta property="file-as" refines="#title">Unto This Last</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">Four Essays on the First Principles of Political Economy</dc:title>
+		<meta property="file-as" refines="#subtitle">Four Essays on the First Principles of Political Economy</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Unto This Last: Four Essays on the First Principles of Political Economy</dc:title>
+		<meta property="file-as" refines="#fulltitle">Unto This Last: Four Essays on the First Principles of Political Economy</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Art</dc:subject>
 		<dc:subject id="subject-2">Economics</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85007461</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85040850</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Nonfiction</meta>
+		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">A philosophical discussion on the nature of wealth and labor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Renown primarily as an art critic, &lt;i&gt;Unto This Last&lt;/i&gt; quickly made &lt;a href="https://standardebooks.org/ebooks/john-ruskin"&gt;John Ruskin&lt;/a&gt; a household name in Victorian England, and marked a shift in his work towards more social issues. The title comes from the Parable of the Workers in the Vineyard, wherein a landowner agrees to pay all his workers the same amount, regardless of how much work they actually did. Though the parable is typically read as a religious allegory, Ruskin analyzed it from a literal, economic point of view.&lt;/p&gt;
+			&lt;p&gt;Ruskin strongly criticizes the 19th century economic orthodoxy, in particular the works of David Ricardo and &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt;. He argues that their view of economics is flawed due to an implicit assumption that wealth can only be measured in money and material goods. Any policies or set of ethics that accepts this definition of wealth therefore neglects any non-measurable kind of value. The pursuit of this kind of wealth leads people to accept (or more often ignore) human suffering as a necessary part of the economy. Ruskin concludes,&lt;/p&gt;
+			&lt;blockquote&gt;
+				&lt;p&gt;It seems that the kind of existence to which men are now summoned by every plea of pity and claim of right, may, for some time at least, not be a luxurious one:⁠—consider whether, even, supposing it guiltless, luxury would be desired by any of us, if we saw clearly at our sides the suffering which accompanies it in the world. Luxury is indeed possible in the future⁠—innocent and exquisite: luxury for all, and by the help of all; but luxury at present can only be enjoyed by the ignorant; the cruelest man living could not sit at his feast, unless he sat blindfold.&lt;/p&gt;
+			&lt;/blockquote&gt;
+			&lt;p&gt;&lt;i&gt;Unto This Last&lt;/i&gt; remains a highly influential (and often criticized) essay. It was an inspiration to, among many others, Mahatma Gandhi, who published his own paraphrased translation into Gujarati in 1908.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36541</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/untothislastfou01ruskgoog</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Unto_This_Last</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-ruskin_unto-this-last</meta>
 		<dc:creator id="author">John Ruskin</dc:creator>
 		<meta property="file-as" refines="#author">Ruskin, John</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_Ruskin</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79006950</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -58,13 +69,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">David Clarke</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Clarke, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Bystricky, Lukas</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
