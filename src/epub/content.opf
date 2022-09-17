@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/john-ruskin/unto-this-last</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-09-17T23:48:52Z</dc:date>
+		<meta property="dcterms:modified">2022-09-17T23:48:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,18 +45,15 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">A philosophical discussion on the nature of wealth and labor.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Renown primarily as an art critic, &lt;i&gt;Unto This Last&lt;/i&gt; quickly made &lt;a href="https://standardebooks.org/ebooks/john-ruskin"&gt;John Ruskin&lt;/a&gt; a household name in Victorian England, and marked a shift in his work towards more social issues. The title comes from the Parable of the Workers in the Vineyard, wherein a landowner agrees to pay all his workers the same amount, regardless of how much work they actually did. Though the parable is typically read as a religious allegory, Ruskin analyzed it from a literal, economic point of view.&lt;/p&gt;
-			&lt;p&gt;Ruskin strongly criticizes the 19th century economic orthodoxy, in particular the works of David Ricardo and &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt;. He argues that their view of economics is flawed due to an implicit assumption that wealth can only be measured in money and material goods. Any policies or set of ethics that accepts this definition of wealth therefore neglects any non-measurable kind of value. The pursuit of this kind of wealth leads people to accept (or more often ignore) human suffering as a necessary part of the economy. Ruskin concludes,&lt;/p&gt;
-			&lt;blockquote&gt;
-				&lt;p&gt;It seems that the kind of existence to which men are now summoned by every plea of pity and claim of right, may, for some time at least, not be a luxurious one:—consider whether, even, supposing it guiltless, luxury would be desired by any of us, if we saw clearly at our sides the suffering which accompanies it in the world. Luxury is indeed possible in the future—innocent and exquisite: luxury for all, and by the help of all; but luxury at present can only be enjoyed by the ignorant; the cruelest man living could not sit at his feast, unless he sat blindfold.&lt;/p&gt;
-			&lt;/blockquote&gt;
-			&lt;p&gt;&lt;i&gt;Unto This Last&lt;/i&gt; remains a highly influential (and often criticized) essay. It was an inspiration to, among many others, Mahatma Gandhi, who published his own paraphrased translation into Gujarati in 1908.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Unto This Last&lt;/i&gt; quickly made &lt;a href="https://standardebooks.org/ebooks/john-ruskin"&gt;John Ruskin&lt;/a&gt; a household name in Victorian England, and marked a shift in his work away from art criticism and towards social issues. The title comes from the Parable of the Workers in the Vineyard, wherein a landowner agrees to pay all his workers the same amount, regardless of how much work they actually did. Though the parable is typically read as a religious allegory, Ruskin analyzed it from a literal, economic point of view.&lt;/p&gt;
+			&lt;p&gt;Ruskin strongly criticizes the 19th century economic orthodoxy, in particular the works of David Ricardo and &lt;a href="https://standardebooks.org/ebooks/john-stuart-mill"&gt;John Stuart Mill&lt;/a&gt;. He argues that their view of economics is flawed due to an implicit assumption that wealth can only be measured in money and material goods. Any policies or set of ethics that accepts this definition of wealth therefore neglects any non-measurable kind of value. The pursuit of this kind of wealth leads people to accept (or more often ignore) human suffering as a necessary part of the economy.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Unto This Last&lt;/i&gt; remains a highly influential and often-criticized book. It was an inspiration to many influential people, including Mahatma Gandhi, who published his own paraphrased Gujarati translation into 1908.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36541</dc:source>
 		<dc:source>https://archive.org/details/untothislastfou01ruskgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">27155</meta>
+		<meta property="se:reading-ease.flesch">47.35</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Unto_This_Last</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-ruskin_unto-this-last</meta>
 		<dc:creator id="author">John Ruskin</dc:creator>
@@ -82,6 +79,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
