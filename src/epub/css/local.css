@@ -62,3 +62,7 @@ footer{
 	margin-top: 1em;
 	text-align: right;
 }
+
+var{
+	font-style: italic;
+}
