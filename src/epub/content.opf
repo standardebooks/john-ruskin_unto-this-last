@@ -53,7 +53,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/36541</dc:source>
 		<dc:source>https://archive.org/details/untothislastfou01ruskgoog</dc:source>
-		<meta property="se:word-count">27153</meta>
+		<meta property="se:word-count">27039</meta>
 		<meta property="se:reading-ease.flesch">47.56</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Unto_This_Last</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/john-ruskin_unto-this-last</meta>
