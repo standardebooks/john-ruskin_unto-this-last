@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">Unto This Last: Four Essays on the First Principles of Political Economy</dc:title>
 		<meta property="file-as" refines="#fulltitle">Unto This Last: Four Essays on the First Principles of Political Economy</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Art</dc:subject>
 		<dc:subject id="subject-2">Economics</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
