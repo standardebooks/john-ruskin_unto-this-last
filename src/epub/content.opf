@@ -69,6 +69,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Anton Mauve</dc:contributor>
 		<meta property="file-as" refines="#artist">Mauve, Anton</meta>
+		<meta property="schema:alternateName" refines="#artist">Anthonij Rudolf Mauve</meta>
 		<link href="https://en.wikipedia.org/wiki/Anton_Mauve" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr99019666.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
